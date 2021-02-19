@@ -42,7 +42,3 @@ Para resolver o desafio vamos seguir a seguinte lógica:
 - Passo 3 - Calcular os indicadores de todas as lojas: Faturamento por Loja Quantidade de Produtos Vendidos por Loja Ticket Médio dos Produto por Loja
 - Passo 4 - Calcular os indicadores de cada loja
 - Passo 5 - Enviar e-mail para a diretoria
-=======
-# Desafio_enviar_relatorio_por_email
-Você faz parte da equipe de Analytics de uma grande marca de vestuário com mais de 25 lojas espalhadas em Shoppings de todo o Brasil. Toda semana você precisa enviar para a diretoria um relatório atualizado com as 25 lojas.
->>>>>>> 481fb8d5aa0015cdfc6529f1bfcd218220ddff61
